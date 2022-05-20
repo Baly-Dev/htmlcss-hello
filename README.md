@@ -1,8 +1,8 @@
-# Progetto 01 - Boolean
+# Project 01 - Boolean
 
-**Dati progetto**
+**Project data**
 
-* data: 19/05/22
+* date: 19/05/22
 * name: htmlcss-hello
 * languages: HTML
 * author: Kevin Baly
